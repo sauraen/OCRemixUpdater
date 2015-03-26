@@ -4,30 +4,30 @@ Keep your numbered OC ReMix collection up-to-date
 Distributed with the permission of djpretzel
 
 Setup instructions:
-1. Use the torrents available at http://ocremix.org/torrents to download
+- Use the torrents available at http://ocremix.org/torrents to download
 ReMixes 1 to 3000. Please do not use OCRemixUpdater to download these! djpretzel
 will get mad at you (and me) for using all that precious bandwidth.
-2. Download OCRemixUpdater.zip and extract it somewhere. Make sure you have
+- Download OCRemixUpdater.zip and extract it somewhere. Make sure you have
 OCRemixUpdater.jar and a lib folder next to it with two jars inside.
-3. Copy or move the remix database file remixes.lst to the folder where you have
+- Copy or move the remix database file remixes.lst to the folder where you have
 all your numbered OC ReMixes.
-4. Double-click OCRemixUpdater.jar to run it. If this does not work on your
+- Double-click OCRemixUpdater.jar to run it. If this does not work on your
 system, go into a command prompt, navigate to the folder containing this file,
 and run java -jar OCRemixUpdater.jar .
-5. Follow the on-screen instructions. When you are prompted to choose the folder
+- Follow the on-screen instructions. When you are prompted to choose the folder
 with your remixes, find the folder that you put remixes.lst into.
 
 Use instructions:
-1. Click List > Refresh to Current from Web. In the Downloader window that
+- Click List > Refresh to Current from Web. In the Downloader window that
 appears, click Start. This reads the latest pages of posted ReMixes from
 ocremix.org, and adds new remixes to the list in the main window.
-2. In the main window, click the Get checkbox next to any ReMixes you want to
+- In the main window, click the Get checkbox next to any ReMixes you want to
 download. Alternatively, select a range of remixes and click the Select or
 Deselect button at the bottom of the screen to select or deselect all of them
 for downloading.
-3. Click Remixes > Download Selected. In the Downloader window, click Start.
-4. Wait patiently for all your remixes to be downloaded!
-5. When the output shows "Done", you're all set! You can close the program.
+- Click Remixes > Download Selected. In the Downloader window, click Start.
+- Wait patiently for all your remixes to be downloaded!
+- When the output shows "Done", you're all set! You can close the program.
 Enjoy your ReMixes!
 
 Using other features:
